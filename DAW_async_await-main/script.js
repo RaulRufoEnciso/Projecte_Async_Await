@@ -1,8 +1,8 @@
 // Claus
 const keys = {
-    api_key: '',
-    session_id: '',
-    account_id: ''
+    api_key: '18306d2b6411ac1e14ce3c250066a7a1',
+    session_id: '56dccd551dbc5cf5f3c303ef10fdd74c13fc8d9a',
+    account_id: '21240784'
 }
 
 let moviesResult = document.getElementById("moviesResult");
